@@ -8,4 +8,3 @@ for item in menu:
 
 print(menu_prices)
 
-
